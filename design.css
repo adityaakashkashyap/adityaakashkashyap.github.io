@@ -13,6 +13,7 @@
       padding: 16px 0;
       text-align: center;
       position: sticky;
+      top: 0px;
 
     }
 
@@ -21,6 +22,8 @@
       background: #9f9f9f;
       text-align: center;
       padding: 1px;
+      position: sticky;
+      top: 168px;
      
     }
 
