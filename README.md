@@ -5,7 +5,7 @@ To view the webpage follow below steps:
 2. click on index.html and open the file using chrome.
 
 Below are design patterns implemented in the webpage:
-1. Tags like <header>, <section>, and <footer> are used to provide meaning and improve accessibility.
+1. Tags like header, section, nav and footer are used to provide meaning and improve accessibility.
 2. A muted, autoplaying loop video is used as part of the header/logo to enhance visual appeal.
 3. External stylesheet (design.css) separates style from content for maintainability and cleaner code.
 4. Interactive hover effects are added to buttons, links, and other elements to enhance user experience with smooth color changes.
